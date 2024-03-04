@@ -7,9 +7,11 @@
 - 💻 I'm learning about **machine learning, signal analysis, and data manupilation**,<b>
 - ⚡  **Fun fact:** I can solve a rubiks cube under a minute<b>
 
-<h3>Let's Connect!</h3>
-[<img align = "left" alt="Tenzin Dhonyoe | Website" width="22px" src = "https://tenzindhonyoe.com/" />] [website]
-[<img align = "left" alt="Tenzin Dhonyoe | LinkedIn" width="22px" src = "https://tenzindhonyoe.com/](https://www.linkedin.com/in/tenzindhonyoe/" />] [linkedin]
+<h3 align = "centre">Let's Connect!</h3>
+<p align="centre">
+  <a href="https://tenzindhonyoe.com/">Website</a> •
+  <a href="https://www.linkedin.com/in/tenzindhonyoe/">LinkedIn</a>
+</p>
 
 <!--
 **TenzinDhonyoe/TenzinDhonyoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
