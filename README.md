@@ -1,11 +1,11 @@
 <h1> Hi, I'm Tenzin 👋! <h1>
 
-<h2>**About me:**<h2>
+<h2>About me:<h2>
 
-- <b>🍎 I'm a third year **Biomedical Engineering student** at Toronto Metropolitan University, <b>
-- <b>🩸 I'm the founder of **GlucoseAgents**, a design and research team focused on creating a non-invasive way to measure blood sugar levels, <b>
-- <b>💻 I'm learning about **machine learning, signal analysis, and data manupilation**,<b>
-- <b>⚡  **Fun fact:** I can solve a rubiks cube under a minute<b>
+<b>🍎 I'm a third year **Biomedical Engineering student** at Toronto Metropolitan University, <b>
+<b>🩸 I'm the founder of **GlucoseAgents**, a design and research team focused on creating a non-invasive way to measure blood sugar levels, <b>
+<b>💻 I'm learning about **machine learning, signal analysis, and data manupilation**,<b>
+<b>⚡  **Fun fact:** I can solve a rubiks cube under a minute<b>
 
 <!--
 **TenzinDhonyoe/TenzinDhonyoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
