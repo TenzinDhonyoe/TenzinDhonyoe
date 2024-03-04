@@ -1,6 +1,6 @@
-<h1> Hi, I'm Tenzin 👋! <h1>
+<h1> Hi, I'm Tenzin 👋! </h1>
 
-<h2>About me:<h2>
+<h2>About me:</h2>
 
 - 🍎 I'm a third year **Biomedical Engineering** student at Toronto Metropolitan University,
 - 🩸 I'm the founder of **GlucoseAgents**, a design and research team focused on creating a non-invasive way to measure blood sugar levels, <b>
