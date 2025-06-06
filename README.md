@@ -5,7 +5,6 @@
 - 🍎 I'm a third year **Biomedical Engineering** student at Toronto Metropolitan University,
 - 🩸 I'm the founder of **GlucoSense**, a design and research team focused on creating a non-invasive way to measure blood sugar levels, <b>
 - 💻 I'm learning about **machine learning, signal analysis, and data manupilation**<b>
-- ⚡  **Fun fact:** I can solve a rubiks cube under a minute<b>
 
 <h3 align = "centre">Let's Connect!</h3>
 <p align="centre">
